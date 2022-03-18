@@ -1,11 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
+1- bundle
+2- rails s
+3- send request through postman
+  3.1- http://localhost:3000/checkout(:post)
+  3.2 params=> checkout_data: "ABCD"
 * Ruby version
+2.72
 
 * System dependencies
 
