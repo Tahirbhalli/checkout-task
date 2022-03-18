@@ -1,25 +1,31 @@
 # README
 
-1- bundle
-2- rails s
-3- send request through postman
-  3.1- http://localhost:3000/checkout(:post)
-  3.2 params=> checkout_data: "ABCD"
-* Ruby version
-2.72
+- bundle
+- rails s
+- send request through postman
+- http://localhost:3000/checkout(:post)
+- params=> checkout_data: "ABCD"
 
-* System dependencies
 
-* Configuration
+## Built With
 
-* Database creation
+- ruby
 
-* Database initialization
+👤 **Author**
 
-* How to run the test suite
+- Github: [Tahir Ahmad](https://github.com/tahirbhalli/)
 
-* Services (job queues, cache servers, search engines, etc.)
+## 🤝 Contributing
 
-* Deployment instructions
+Contributions, issues and feature requests are welcome! Start by:
+* Forking the project
+* Cloning the project to your local machine
+* `cd` into the Youtube-Replica project directory
+* Run `git checkout -b your-branch-name`
+* Make your contributions
+* Push your branch up to your forked repository
+* Open a Pull Request with a detailed description to the development branch of the original project for a review
 
-* ...
+## 📝 License
+
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
