@@ -2,6 +2,10 @@
 
 - bundle
 - rails s
+- rails db:create
+- rails db:migrate
+- rails db:seed
+- RAILS_ENV=test rails db:seed
 - send request through postman
 - http://localhost:3000/checkout(:post)
 - params=> checkout_data: "ABCD"
